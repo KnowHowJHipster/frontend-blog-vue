@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "blog",
+    "clientFramework": "vue",
+    "clientTestFrameworks": ["cypress"],
+    "clientTheme": "none",
+    "creationTimestamp": 1717425152344,
+    "cypressAudit": true,
+    "cypressCoverage": null,
+    "devServerPort": 9060,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.5.0",
+    "languages": ["en", "ru", "ua"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "skipServer": true,
+    "testFrameworks": ["cypress"],
+    "withAdminUi": true
+  }
+}
