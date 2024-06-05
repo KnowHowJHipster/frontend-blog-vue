@@ -61,7 +61,7 @@
     "@vuelidate/validators": "2.0.4",
     "@vueuse/core": "10.10.0",
     "axios": "1.7.2",
-    "bootstrap": "4.6.2",
+    "bootstrap": "5.3.3",
     "bootstrap-vue": "2.23.1",
     "dayjs": "1.11.11",
     "deepmerge": "4.3.1",
