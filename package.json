@@ -85,7 +85,7 @@
     "autoprefixer": "10.4.19",
     "axios-mock-adapter": "1.22.0",
     "concurrently": "8.2.2",
-    "cypress": "13.10.0",
+    "cypress": "13.11.0",
     "cypress-audit": "1.1.0",
     "eslint": "8.57.0",
     "eslint-plugin-cypress": "3.3.0",
